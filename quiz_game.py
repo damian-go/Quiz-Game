@@ -1,3 +1,5 @@
+# *** Quiz Game ***
+
 def load_questions():
     return [
         # General Knowledge Questions
@@ -334,15 +336,6 @@ def load_questions():
             "explanation": "2 is the smallest and the only even prime number."
         },
         # Additional Computer Science Questions
-        {
-            "question": "In object-oriented programming, what does 'encapsulation' refer to?",
-            "type": "short_answer",
-            "answer": "Grouping data and methods",
-            "category": "Computer Science",
-            "difficulty": "Medium",
-            "points": 2,
-            "explanation": "Encapsulation is bundling data with methods that operate on that data."
-        },
         {
             "question": "What is the main purpose of a DNS server?",
             "type": "multiple_choice",
