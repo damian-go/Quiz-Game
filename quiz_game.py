@@ -1,5 +1,3 @@
-# *** Quiz Game ***
-
 def load_questions():
     return [
         # General Knowledge Questions
