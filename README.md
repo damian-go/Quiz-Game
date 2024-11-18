@@ -1,14 +1,22 @@
 # Python Quiz Game
 
-An interactive command-line quiz game built with Python.
-
+An interactive Python quiz game covering topics in general knowledge, mathematics, computer science, and philosophy.
 
 ## Features
 
-- Multiple-choice questions
-- Scoring system with immediate feedback
-- Categories and difficulty levels
-- High-score leaderboard
+- Supports multiple question types:
+  - **Multiple-choice**
+  - **Numeric input** (with tolerance for rounding)
+  - **True/False**
+  - **Short answer**
+- **Diverse Question Bank** covering:
+  - General Knowledge
+  - Mathematics (Algebra, Geometry, Trigonometry, Calculus, Probability)
+  - Computer Science
+  - Philosophy
+- **Scoring System** with immediate feedback
+- **Tolerance Handling** for numeric answers to account for rounding errors
+- **Expandable**: Easily add more questions or categories
 
 ## Installation
 
